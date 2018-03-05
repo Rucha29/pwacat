@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "'/pwacat/'/index.html",
+  "index": "/pwacat/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "'/pwacat/'/favicon.ico",
-        "'/pwacat/'/index.html",
-        "'/pwacat/'/inline.318b50c57b4eba3d437b.bundle.js",
-        "'/pwacat/'/main.3651b71a8822163495bb.bundle.js",
-        "'/pwacat/'/polyfills.bf95165a1d5098766b92.bundle.js",
-        "'/pwacat/'/styles.cb51db7ff5e50b169295.bundle.css"
+        "/pwacat/favicon.ico",
+        "/pwacat/index.html",
+        "/pwacat/inline.318b50c57b4eba3d437b.bundle.js",
+        "/pwacat/main.3651b71a8822163495bb.bundle.js",
+        "/pwacat/polyfills.bf95165a1d5098766b92.bundle.js",
+        "/pwacat/styles.1573b671d329b7e83e47.bundle.css"
       ],
       "patterns": []
     },
@@ -21,10 +21,10 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "'/pwacat/'/assets/icon-128x128.png",
-        "'/pwacat/'/assets/icon-152x152.png",
-        "'/pwacat/'/assets/icon-256x256.png",
-        "'/pwacat/'/assets/icon-512x512.png"
+        "/pwacat/assets/icon-128x128.png",
+        "/pwacat/assets/icon-152x152.png",
+        "/pwacat/assets/icon-256x256.png",
+        "/pwacat/assets/icon-512x512.png"
       ],
       "patterns": [
         "https:\\/\\/cataas\\.com\\/.*"
@@ -33,15 +33,15 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "'/pwacat/'/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "'/pwacat/'/assets/icon-128x128.png": "8af039b842ac80861b613a960ef33ef6cb3dca61",
-    "'/pwacat/'/main.3651b71a8822163495bb.bundle.js": "024ca198c96b22014ea0361a310965979248818e",
-    "'/pwacat/'/assets/icon-152x152.png": "26c5e137d62c98739ac273e2ac4df2779bbc8bcb",
-    "'/pwacat/'/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
-    "'/pwacat/'/assets/icon-256x256.png": "958f1438b8ce33e2042c3a03737ce8e3491ea4f5",
-    "'/pwacat/'/styles.cb51db7ff5e50b169295.bundle.css": "dc2153c1ca13cab01768eff80bbfafa356bc1c77",
-    "'/pwacat/'/assets/icon-512x512.png": "a1019340d7f3cf5d061f4951dbf8db020081013e",
-    "'/pwacat/'/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "'/pwacat/'/index.html": "cec87b74dea51eb47a0ee6883a70950d02dd7527"
+    "/pwacat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/pwacat/assets/icon-128x128.png": "8af039b842ac80861b613a960ef33ef6cb3dca61",
+    "/pwacat/main.3651b71a8822163495bb.bundle.js": "024ca198c96b22014ea0361a310965979248818e",
+    "/pwacat/assets/icon-152x152.png": "26c5e137d62c98739ac273e2ac4df2779bbc8bcb",
+    "/pwacat/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
+    "/pwacat/assets/icon-256x256.png": "958f1438b8ce33e2042c3a03737ce8e3491ea4f5",
+    "/pwacat/styles.1573b671d329b7e83e47.bundle.css": "dc2153c1ca13cab01768eff80bbfafa356bc1c77",
+    "/pwacat/assets/icon-512x512.png": "a1019340d7f3cf5d061f4951dbf8db020081013e",
+    "/pwacat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/pwacat/index.html": "3aa0bf45b9bebd17c519d840ea3aa7b85f730c79"
   }
 }
